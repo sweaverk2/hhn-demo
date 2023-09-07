@@ -1,0 +1,16 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "name": "Stranger Things 4",
+      "description": "Try to Escape the Curse of Vecna",
+      "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-house-stranger-things-a.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Last of Us",
+      "description": "Step Into the World of The Last of Us",
+      "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-last-of-us-house-ps-a.jpg"
+    }
+  ]
+}
