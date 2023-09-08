@@ -4,60 +4,70 @@
       "id": 1,
       "name": "Stranger Things 4",
       "description": "Try to Escape the Curse of Vecna",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-house-stranger-things-a.jpg"
     },
     {
       "id": 2,
       "name": "The Last of Us",
       "description": "Step Into the World of The Last of Us",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-last-of-us-house-ps-a.jpg"
     },
     {
       "id": 3,
       "name": "The Exorcist: Believer",
       "description": "An Evil Reawakened",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-house-exorcist-art-cf-a.jpg"
     },
     {
       "id": 4,
       "name": "Chucky: Ultimate Kill Count",
       "description": "Chucky’s Back for Even More Carnage",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-house-chucky-ultimate-cf-a.jpg"
     },
     {
       "id": 5,
       "name": "Universal Monsters: Unmasked",
       "description": "Four Universal Monsters. One New Nightmare.",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/una-halloween-horror-nights-house-universal-monsters-cf-a.jpg"
     },
     {
       "id": 6,
       "name": "Dr. Oddfellow’s Twisted Origins",
       "description": "Your Soul is a Price He’s Willing to Pay",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/usf-halloween-horror-nights-house-dr-oddfellows-logo-cf-a.jpg"
     },
     {
       "id": 7,
       "name": "Dueling Dragons: Choose Thy Fate",
       "description": "No Matter Who You Choose, You Lose",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/usf-halloween-horror-nights-house-dueling-dragons-logo-cf-a.jpg"
     },
     {
       "id": 8,
       "name": "YETI: Campground Kills",
       "description": "Yeti or Not, Here They Come",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/usf-halloween-horror-nights-house-yeti-campground-logo-cf-a.jpg"
     },
     {
       "id": 9,
       "name": "The Darkest Deal",
       "description": "Fame is Fleeting. Fear is Forever.",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/usf-halloween-horror-nights-house-darkest-deal-logo-cf-a.jpg"
     },
     {
       "id": 10,
       "name": "Bloodmoon: Dark Offerings",
       "description": "Bleed for the Blood Moon",
+      "rating": 0,
       "image": "https://www.universalorlando.com/webdata/k2/en/us/files/Images/usf-halloween-horror-nights-house-bloodmoon-logo-cf-a.jpg"
     }
   ]
